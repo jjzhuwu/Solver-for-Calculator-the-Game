@@ -4,7 +4,7 @@
 This solver for Calculator the Game, inputs original number, goal, allowed number of moves, and buttons (operands), and outputs sequence of operands to solve the game. 
 
 ### Installing
-Compile Using C++
+Use C++ Compiler
 
 
 ## Operands  
