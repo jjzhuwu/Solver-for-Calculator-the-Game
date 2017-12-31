@@ -47,8 +47,6 @@ private:
 
     Node* apply(Node *ptr, Operation *o);
 
-    int rmLD(int base);
-
     string strategy(Node *ptr);
 
     int sizeofinsert(int num);
