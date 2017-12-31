@@ -1,4 +1,4 @@
-# Solver-for-Calculator-the-Game
+ # Solver-for-Calculator-the-Game
 
 ## Getting Started
 This solver for Calculator the Game, inputs original number, goal, allowed number of moves, and buttons (operands), and outputs sequence of operands to solve the game. 
@@ -30,5 +30,5 @@ v (Inv10)
 ## Operand in Solution:  
 q (insert number in Store)  
 
-## Portal:  
+## Games with Portal:  
 Enter 1 if the arrow points to/from the 1s, 2 if the arrow points to/from the 10s, 3 if the arrow points to/from the 100s, and etc.
