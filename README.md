@@ -1,7 +1,7 @@
  # Solver-for-Calculator-the-Game
 
 ## Getting Started
-This solver for Calculator the Game, inputs original number, goal, allowed number of moves, and buttons (operands), and outputs sequence of operands to solve the game. 
+This solver for Calculator the Game, inputs original number, goal, allowed number of moves, and buttons (operands), and outputs the sequence of operands to solve the game. 
 
 ### Installing
 Use C++ Compiler
